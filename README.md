@@ -82,7 +82,7 @@ Each section is queried independently: one broken query never takes the whole sc
 ## Install
 
 ```bash
-git clone https://github.com/nicolassoler/gads-scan.git
+git clone https://github.com/solernicolas041/gads-scan.git
 cd gads-scan
 pip install -r requirements.txt      # google-ads only
 ```
